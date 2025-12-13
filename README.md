@@ -1,8 +1,10 @@
-<h1 align="left">Hi! I'm Chase Roohms</h1>
+<h1 align="center">Chase Roohms</h1>
 
 ###
 
-<p align="left">Hi, I’m Chase Roohms, a dedicated IT Professional with a strong background in Development, and a solid understanding of IT Security foundations. With nearly 3 years of solo development experience and an internship as a Security Engineer, I leverage my knowledge of both sides of the coin when faced with challenges.<br><br>Throughout my development experience I've focused on the foundations of data structures and algorithms, learning how to apply code to solve problems, rather than learning how to solve problems in one specific language. My primary development languages have been Java and Python, but I am also comfortable working in C++ and JavaScript. I pride myself on picking up new languages and frameworks quickly, because while some specifics and syntax can change, the logic never does.<br><br>My passion for learning and problem solving has led me to perpetually be "working on a project", from Discord Bots to a Linux Home Server, my hands and my computer are never idle. I do my best work in dynamic environments, where I can apply my technical expertise and problem-solving skills to challenges that I have yet to face.</p>
+<p align="left">Hi! I’m Chase Roohms, a DevOps Engineer who has built his career around a passion for automation and problem solving. With a background in software development and IT security, I approach challenges from multiple perspectives and enjoy finding smarter, more efficient ways to keep systems running smoothly.</p>
+
+<p align="left">A natural tinkerer, I spend my free time exploring new tools, running home servers, and building side projects. That same curiosity drives my work - streamlining processes, reducing manual efforts, and creating solutions that scale.</p>
 
 ###
 
@@ -43,9 +45,7 @@
 <h1 align="left"></h1>
 
 ###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chase-roohms&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chase-roohms&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
