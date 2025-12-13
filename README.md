@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/chase-roohms/count.svg?"  />
-</div>
-
-###
-
 <p align="left">Hi, I’m Chase Roohms, a dedicated IT Professional with a strong background in Development, and a solid understanding of IT Security foundations. With nearly 3 years of solo development experience and an internship as a Security Engineer, I leverage my knowledge of both sides of the coin when faced with challenges.<br><br>Throughout my development experience I've focused on the foundations of data structures and algorithms, learning how to apply code to solve problems, rather than learning how to solve problems in one specific language. My primary development languages have been Java and Python, but I am also comfortable working in C++ and JavaScript. I pride myself on picking up new languages and frameworks quickly, because while some specifics and syntax can change, the logic never does.<br><br>My passion for learning and problem solving has led me to perpetually be "working on a project", from Discord Bots to a Linux Home Server, my hands and my computer are never idle. I do my best work in dynamic environments, where I can apply my technical expertise and problem-solving skills to challenges that I have yet to face.</p>
 
 ###
